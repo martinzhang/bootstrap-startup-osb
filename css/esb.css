@@ -1,0 +1,75 @@
+body {
+    padding-top: 50px;
+}
+
+.carousel {
+    margin-bottom: 60px;
+}
+
+.carousel-inner {
+}
+
+.carousel-inner > .item  > img {
+    min-width: 100%;
+    height: 500px;
+}
+
+.marketing {
+    margin-bottom: 60px;
+}
+
+.marketing .col-lg-4 {
+    text-align: center;
+}
+
+.featurette-divider {
+    margin: 80px 0;
+}
+
+.featurette-heading {
+    line-height: 1;
+    margin-top: 120px;
+    font-size: 50px;
+    letter-spacing: -1px;
+}
+
+.col-md-5 > img {
+    width: 470px;
+    height: 470px;
+}
+
+.bs-sidebar {
+    width: 263px;
+    position: fixed;
+    top: 80px;
+}
+
+.bs-sidenav {
+    background-color: #f7f5fa;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-shadow: 0 1px 0 #fff;
+    border-radius: 5px;
+}
+
+.testdiv {
+    border: solid 1px;
+    border-top: none;
+    border-bottom: none;
+    width: 3px;
+    height: auto;
+}
+
+.bs-header .container {
+    position: relative;
+}
+
+.testnav {
+    right: auto;
+}
+
+.col-md-9 {
+    border: solid 1px blue;
+}
